@@ -4,3 +4,4 @@ bower_components
 
 server.key
 server.crt
+config.json
